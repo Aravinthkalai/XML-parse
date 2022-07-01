@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UAVariables>
+    <UAVariable NodeId="i=2045" BrowseName="Variable1" ParentNodeId="i=2041" DataType="Int32">
+        <DisplayName>Variable1</DisplayName>
+        <Description>A description of the source of the event.</Description>
+        <Value>
+        <Int32 xmlns="http://opcfoundation.org/UA/2008/02/Types.xsd">5</Int32>
+        </Value>
+    </UAVariable>
+
+    <UAVariable NodeId="i=2046" BrowseName="Variable2" ParentNodeId="i=2041" DataType="Float">
+        <DisplayName>Variable2</DisplayName>
+        <Description>A description of the source of the event.</Description>
+        <Value>
+        <Float xmlns="http://opcfoundation.org/UA/2008/02/Types.xsd">4.8</Float>
+        </Value>
+    </UAVariable>
+
+    <UAVariable NodeId="i=2047" BrowseName="Variable3" ParentNodeId="i=2041" DataType="Int16">
+        <DisplayName>Variable3</DisplayName>
+        <Description>A description of the source of the event.</Description>
+        <Value>
+        <Int16 xmlns="http://opcfoundation.org/UA/2008/02/Types.xsd">7</Int16>
+        </Value>
+    </UAVariable>
+</UAVariables>
